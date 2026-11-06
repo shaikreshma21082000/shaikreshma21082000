@@ -33,12 +33,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/stats-light.svg" alt="GitHub stats: 9 contributions in the last 12 months. All-time: 88 since 2020, Repositories: 41 public, On GitHub: 6 years." width="100%" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/stats-light.svg" alt="GitHub stats: 11 contributions in the last 12 months. All-time: 90 since 2020, Repositories: 42 public, On GitHub: 6 years." width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/languages-dark.svg" />
-  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/languages-light.svg" alt="Most used languages (by code size): Java 40.0%, TypeScript 35.3%, HTML 15.2%, JavaScript 4.7%, CSS 4.3%, Other 0.5%" width="100%" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/languages-light.svg" alt="Most used languages (by code size): Java 40.2%, TypeScript 35.2%, HTML 15.1%, JavaScript 4.7%, CSS 4.3%, Other 0.5%" width="100%" />
 </picture>
 
 <!-- profilescape:end -->
