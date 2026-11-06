@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Shares a group with the Medium job so the two never edit README.md together.
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
 jobs:
   cards:
     runs-on: ubuntu-latest
@@ -15,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: chethandvg/profilescape@v1
         with:
-          cards: hero,socials,stats,3d,languages,repos,stack
+          cards: hero,socials,stack,stats,languages
           theme: aurora
           readme: README.md
           config: .github/profilescape.json

@@ -1,64 +1,60 @@
 {
   "theme": "aurora",
-  "cards": [
-    "hero",
-    "socials",
-    "stats",
-    "3d",
-    "languages",
-    "repos",
-    "stack"
-  ],
+  "cards": ["hero", "socials", "stack", "stats", "languages"],
   "options": {
     "hero": {
-      "role": "Software Engineer II | Java Full Stack Developer",
-      "tagline": "Building scalable Java microservices and full-stack apps, now exploring AI agents",
-      "chips": [
-        "Java",
-        "Spring Boot",
-        "Microservices",
-        "Angular"
+      "name": "Shaik Reshma",
+      "role": "Software Engineer II · Java Full Stack · AI Automation",
+      "tagline": [
+        "Java Virtual Threads took batch jobs from 24h to 3h.",
+        "Spring Boot, Kafka, Kubernetes, Azure and local-LLM agents."
       ],
-      "status": "building with Spring AI and LLM agents",
-      "codeLanguage": "java"
-    },
-    "stats": {
-      "metrics": [
-        "currentStreak",
-        "longestStreak",
-        "commits",
-        "pullRequests",
-        "allTime",
-        "repos"
-      ]
-    },
-    "languages": {
-      "layout": "donut",
-      "top": 6
-    },
-    "repos": {
-      "count": 6,
-      "descriptionLines": 2
-    },
-    "stack": {
-      "icons": [
-        "java",
-        "springboot",
-        "hibernate",
-        "angular",
-        "apachekafka",
-        "oracle",
-        "mongodb",
-        "docker",
-        "jenkins"
-      ],
-      "style": "tiles"
+      "chips": ["Java 17", "Spring Boot", "Kafka", "Kubernetes", "Azure", "Angular"],
+      "status": "building AI agents with Spring AI and local LLMs",
+      "codeLanguage": "java",
+      "codeFile": "Reshma.java",
+      "code": "var reshma = new Engineer(\n  \"Shaik Reshma\", \"Software Engineer II\",\n  List.of(\"Java 17\", \"Spring Boot\", \"Kafka\"),\n  List.of(\"Kubernetes\", \"Azure\", \"Spring AI\")\n);\n\nreshma.ship(Thread.ofVirtual());"
     },
     "socials": {
       "links": {
-        "linkedin": "shaik-reshma-21082000"
+        "linkedin": "shaik-reshma-21082000",
+        "custom": [{ "label": "Medium", "url": "https://medium.com/@shaikreshma21082000" }]
       },
       "style": "pill"
+    },
+    "stack": {
+      "title": "Tech stack",
+      "icons": [
+        "java",
+        "springboot:Spring Boot",
+        "hibernate",
+        "angular",
+        "apachekafka:Kafka",
+        "docker",
+        "kubernetes",
+        "microsoftazure:Azure",
+        "oracle",
+        "mongodb",
+        "jenkins",
+        "gradle",
+        "sonarqube:SonarQube",
+        "datadog",
+        "ollama",
+        "git"
+      ],
+      "style": "tiles",
+      "perRow": 8
+    },
+    "stats": {
+      "title": "GitHub at a glance",
+      "metrics": ["allTime", "repos", "years"],
+      "chart": "none"
+    },
+    "languages": {
+      "layout": "donut",
+      "weighting": "bytes",
+      "top": 5,
+      "title": "Languages by code size"
     }
   }
 }

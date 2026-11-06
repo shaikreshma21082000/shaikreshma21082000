@@ -1,0 +1,33 @@
+name: Latest Medium articles
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # every day at 03:30 UTC, after Profilescape
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Profilescape and this job both edit README.md, so never run them at the same time.
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  medium:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh article list
+        run: python3 .github/scripts/update_medium.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update latest Medium articles [skip ci]"
+            git push
+          fi
