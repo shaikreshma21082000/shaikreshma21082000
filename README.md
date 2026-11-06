@@ -82,7 +82,11 @@ Day to day: backend architecture for multi-state insurance data services, REST A
 I have published 8 technical articles on Medium covering Java 17 features, SOLID principles, design patterns and GenAI application development.
 
 <!-- medium:start -->
-- [Read my articles on Medium](https://medium.com/@shaikreshma21082000)
+- [Step-by-Step Guide for Installing and using Ollama](https://medium.com/@shaikreshma21082000/step-by-step-guide-for-installing-and-using-ollama-43ed821610e8) · Sep 2025
+- [FastAPI for Java Developers: Transition from Spring Boot to Python](https://medium.com/@shaikreshma21082000/fastapi-for-java-developers-transition-from-spring-boot-to-python-fe2d44d3c623) · Sep 2025
+- [Streamlining Data Transformation with MapStruct and Builder Mapping](https://medium.com/@shaikreshma21082000/streamlining-data-transformation-with-mapstruct-and-builder-mapping-a8e7cc3722d9) · Jan 2025
+- [Java 17: Pattern Matching, Sealed Classes, and What’s Next?](https://medium.com/@shaikreshma21082000/java-17-pattern-matching-sealed-classes-and-whats-next-e92f6f57bdb3) · Nov 2024
+- [Building a GenAI-Powered Java Application with Gradle](https://medium.com/@shaikreshma21082000/building-a-genai-powered-java-application-with-gradle-88237ed96570) · Oct 2024
 <!-- medium:end -->
 
 ## Education and recognition
