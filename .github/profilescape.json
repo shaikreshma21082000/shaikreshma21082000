@@ -1,0 +1,64 @@
+{
+  "theme": "aurora",
+  "cards": [
+    "hero",
+    "socials",
+    "stats",
+    "3d",
+    "languages",
+    "repos",
+    "stack"
+  ],
+  "options": {
+    "hero": {
+      "role": "Software Engineer II | Java Full Stack Developer",
+      "tagline": "Building scalable Java microservices and full-stack apps, now exploring AI agents",
+      "chips": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Angular"
+      ],
+      "status": "building with Spring AI and LLM agents",
+      "codeLanguage": "java"
+    },
+    "stats": {
+      "metrics": [
+        "currentStreak",
+        "longestStreak",
+        "commits",
+        "pullRequests",
+        "allTime",
+        "repos"
+      ]
+    },
+    "languages": {
+      "layout": "donut",
+      "top": 6
+    },
+    "repos": {
+      "count": 6,
+      "descriptionLines": 2
+    },
+    "stack": {
+      "icons": [
+        "java",
+        "springboot",
+        "hibernate",
+        "angular",
+        "apachekafka",
+        "oracle",
+        "mongodb",
+        "docker",
+        "jenkins"
+      ],
+      "style": "tiles"
+    },
+    "socials": {
+      "links": {
+        "linkedin": "shaik-reshma-21082000"
+      },
+      "style": "pill"
+    }
+  }
+}
