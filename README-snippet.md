@@ -1,0 +1,44 @@
+<!-- profilescape:start -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/hero-light.svg" alt="Shaik Reshma — Software Engineer II · Java Full Stack · AI Automation" width="100%" />
+</picture>
+
+<p align="center">
+<a href="https://github.com/shaikreshma21082000">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/social-github-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/social-github-light.svg" alt="GitHub" />
+</picture>
+</a>
+<a href="https://www.linkedin.com/in/shaik-reshma-21082000">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/social-linkedin-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/social-linkedin-light.svg" alt="LinkedIn" />
+</picture>
+</a>
+<a href="https://medium.com/@shaikreshma21082000">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/social-medium-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/social-medium-light.svg" alt="Medium" />
+</picture>
+</a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/stack-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/stack-light.svg" alt="Tech stack: Java, Spring Boot, hibernate, Angular, Kafka, Docker, Kubernetes, Azure, Oracle, MongoDB, Jenkins, gradle, SonarQube, datadog, Ollama, Git" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/stats-light.svg" alt="GitHub stats: 24 contributions in the last 12 months. All-time: 103 since 2020, Repositories: 47 public, On GitHub: 6 years." width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/languages-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shaikreshma21082000/shaikreshma21082000/profilescape-output/languages-light.svg" alt="Most used languages (by code size): Java 43.1%, TypeScript 33.5%, HTML 14.4%, JavaScript 4.5%, CSS 4.0%, Other 0.5%" width="100%" />
+</picture>
+
+<!-- profilescape:end -->
